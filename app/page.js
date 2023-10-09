@@ -176,7 +176,7 @@ export default function Home() {
                   </div>
                   
                 </div>
-                <div>
+                <div className="flex gap-4">
                   <Link href="https://www.linkedin.com/in/micheal-olaniran-678837201/" className="border-neutral-300 mt-4 bg-white shadow-md drop-shadow-md border dark:bg-[#373737]  dark:border-none w-9 h-9 px-2 rounded-full flex items-center justify-center gap-x-1  ">
                       <FaLinkedinIn className="text-neutral-500 dark:text-white" />
                   </Link>
