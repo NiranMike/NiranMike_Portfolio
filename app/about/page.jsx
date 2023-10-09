@@ -171,7 +171,7 @@ function Page() {
                 Let’s work together.
               </h2>
               <p className="text-center mt-3 dark:text-neutral-300 text-[#666D80] text-lg">
-                Creating user experience and visual appealing design
+                Creating user experience and visual appealing Website
               </p>
             </div>
 
