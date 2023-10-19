@@ -42,7 +42,6 @@ function page() {
                 />
                 <input
                   className="w-1/2 p-3
-                  
                   outline-none border-none rounded-lg dark:bg-[#2C2C2C]/40 bg-[#F1F4F8] placeholder-zinc-600"
                   type="email"
                   placeholder="Email"
