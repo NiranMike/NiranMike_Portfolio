@@ -10,6 +10,14 @@ import { CiLocationArrow1, CiTwitter, CiInstagram } from "react-icons/ci";
 
 const links = [
   {
+    img: "/img/motion.png",
+    title: "Motion",
+    subtitle: ["React, NextJs, TailwindCSS, Convex, Typescript"],
+    icon: <BsChevronRight />,
+    href: "https://motion-flame.vercel.app/",
+    githubHref:"https://github.com/NiranMike/motion"
+  },
+  {
     img: "/img/buddy.png",
     title: "Buddy-AI",
     subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, OpenAI, Typescript..."],
@@ -46,6 +54,8 @@ const links = [
     githubHref:"https://github.com/NiranMike/chatgpt"
   },
 ];
+
+
 const projects = [
   {
     img: "/img/pizza.png",

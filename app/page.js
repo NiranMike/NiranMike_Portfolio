@@ -15,6 +15,14 @@ import { useEffect, useRef, useState } from "react";
 
 const links = [
   {
+    img: "/img/motion.png",
+    title: "Motion",
+    subtitle: ["React, NextJs, TailwindCSS, Convex, Typescript"],
+    icon: <BsChevronRight />,
+    href: "https://motion-flame.vercel.app/",
+    githubHref:"https://github.com/NiranMike/motion"
+  },
+  {
     img: "/img/buddy.png",
     title: "Buddy-AI",
     subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, OpenAI, Typescript..."],
@@ -28,20 +36,6 @@ const links = [
     subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, Typescript, Zustand"],
     href: "https://you-chat-niranmike.vercel.app/",
     githubHref:"https://github.com/NiranMike/YouChat"
-  },
-  {
-    img: "/img/coinratecap.png",
-    title: "Coinratecap",
-    subtitle: ["Web3"],
-    href: "https://coinratecap.com/",
-    githubHref:""
-  },
-  {
-    img: "/img/humanity.png",
-    title: "Humanity",
-    subtitle: ["Responsive Website"],
-    href: "https://humanity-niranmike.vercel.app/",
-    githubHref:"https://github.com/NiranMike/humanity"
   },
   {
     img: "/img/portfolio-2.jpg",
@@ -209,7 +203,7 @@ export default function Home() {
                 <div className="flex items-center gap-x-2 font-InterRe">
                   <div className="w-[6px] h-[6px] rounded-full  bg-[#6b6b6b]" />
                   <h1 className="text-neutral-700 dark:text-[#C0C0C0] text-lg font-InterMe">
-                    Projects
+                    Recent Projects
                   </h1>
                 </div>
 
