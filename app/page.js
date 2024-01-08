@@ -27,7 +27,7 @@ const links = [
     title: "Instellar-clone",
     subtitle: ["ReactJs, TailwindCSS, GSAP, Lenis"],
     icon: <BsChevronRight />,
-    href: "insterstellar-blush.vercel.app",
+    href: "https://insterstellar-blush.vercel.app",
     githubHref:"https://github.com/NiranMike/insterstellar-clone"
   },
   {
