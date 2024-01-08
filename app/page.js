@@ -24,11 +24,11 @@ const links = [
   },
   {
     img: "/img/buddy.png",
-    title: "Buddy-AI",
-    subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, OpenAI, Typescript..."],
+    title: "Instellar-clone",
+    subtitle: ["ReactJs, TailwindCSS, GSAP, Lenis"],
     icon: <BsChevronRight />,
-    href: "https://buddy-ai.vercel.app/",
-    githubHref:"https://github.com/NiranMike/companion_ai"
+    href: "insterstellar-blush.vercel.app",
+    githubHref:"https://github.com/NiranMike/insterstellar-clone"
   },
   {
     img: "/img/youchat.png",
