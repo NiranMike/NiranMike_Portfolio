@@ -23,7 +23,7 @@ const links = [
     githubHref:"https://github.com/NiranMike/motion"
   },
   {
-    img: "/img/buddy.png",
+    img: "/img/instellar.png",
     title: "Instellar-clone",
     subtitle: ["ReactJs, TailwindCSS, GSAP, Lenis"],
     icon: <BsChevronRight />,
@@ -36,13 +36,6 @@ const links = [
     subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, Typescript, Zustand"],
     href: "https://you-chat-niranmike.vercel.app/",
     githubHref:"https://github.com/NiranMike/YouChat"
-  },
-  {
-    img: "/img/portfolio-2.jpg",
-    title: "ChatGPT Clone",
-    subtitle: ["OpenAI, NextJs, Typescript"],
-    href: "https://chatgpt-iota-drab.vercel.app/",
-    githubHref:"https://github.com/NiranMike/chatgpt"
   },
   {
     img: "/img/nft.png",
