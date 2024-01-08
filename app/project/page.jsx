@@ -18,12 +18,12 @@ const links = [
     githubHref:"https://github.com/NiranMike/motion"
   },
   {
-    img: "/img/buddy.png",
-    title: "Buddy-AI",
-    subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, OpenAI, Typescript..."],
+    img: "/img/instellar.png",
+    title: "Instellar-clone",
+    subtitle: ["ReactJs, TailwindCSS, GSAP, Lenis"],
     icon: <BsChevronRight />,
-    href: "https://buddy-ai.vercel.app/",
-    githubHref:"https://github.com/NiranMike/companion_ai"
+    href: "https://insterstellar-blush.vercel.app",
+    githubHref:"https://github.com/NiranMike/insterstellar-clone"
   },
   {
     img: "/img/youchat.png",
@@ -39,20 +39,7 @@ const links = [
     href: "https://coinratecap.com/",
     githubHref:""
   },
-  {
-    img: "/img/humanity.png",
-    title: "Humanity",
-    subtitle: ["Responsive Website"],
-    href: "https://humanity-niranmike.vercel.app/",
-    githubHref:"https://github.com/NiranMike/humanity"
-  },
-  {
-    img: "/img/portfolio-2.jpg",
-    title: "ChatGPT Clone",
-    subtitle: ["OpenAI, NextJs, Typescript"],
-    href: "https://chatgpt-iota-drab.vercel.app/",
-    githubHref:"https://github.com/NiranMike/chatgpt"
-  },
+  
 ];
 
 
