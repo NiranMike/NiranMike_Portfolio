@@ -26,6 +26,13 @@ const links = [
     githubHref:"https://github.com/NiranMike/insterstellar-clone"
   },
   {
+    img: "/img/boobook.png",
+    title: "Boobook",
+    subtitle: ["GSAP, React, Tailwind"],
+    href: "https://boobook.vercel.app/",
+    githubHref:"https://github.com/NiranMike/bookbook"
+  },
+  {
     img: "/img/youchat.png",
     title: "YouChat",
     subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, Typescript, Zustand"],
@@ -39,7 +46,7 @@ const links = [
     href: "https://coinratecap.com/",
     githubHref:""
   },
-  
+
 ];
 
 
