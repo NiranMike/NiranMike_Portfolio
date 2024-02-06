@@ -33,6 +33,13 @@ const links = [
     githubHref:"https://github.com/NiranMike/bookbook"
   },
   {
+    img: "/img/artone.png",
+    title: "Artone",
+    subtitle: ["React, TailwindCSS"],
+    href: "https://artone-gray.vercel.app/",
+    githubHref:"https://github.com/NiranMike/artone"
+  },
+  {
     img: "/img/youchat.png",
     title: "YouChat",
     subtitle: ["NextJs, TailwindCSS, MongoDB, Prisma, Typescript, Zustand"],

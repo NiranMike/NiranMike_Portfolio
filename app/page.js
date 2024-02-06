@@ -45,6 +45,13 @@ const links = [
     githubHref:"https://github.com/NiranMike/YouChat"
   },
   {
+    img: "/img/artone.png",
+    title: "Artone",
+    subtitle: ["React, TailwindCSS"],
+    href: "https://artone-gray.vercel.app/",
+    githubHref:"https://github.com/NiranMike/artone"
+  },
+  {
     img: "/img/nft.png",
     title: "NFT Weirdo",
     subtitle: ["Framer Motion, Responsive Website, NextJs, Typescript"],
